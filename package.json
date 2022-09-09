@@ -1,0 +1,19 @@
+{
+  "name": "churchy",
+  "version": "1.0.0",
+  "description": "Sistema para suporte de apresentação de conteúdo para igrejas n o momento do culto",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafa-so/churchy.git"
+  },
+  "author": "Rafael Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafa-so/churchy/issues"
+  },
+  "homepage": "https://github.com/rafa-so/churchy#readme"
+}
